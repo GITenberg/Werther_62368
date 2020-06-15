@@ -1,0 +1,50 @@
+_repo: Werther_62368
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Sand, George
+    aliases:
+    - Dudevant, Amandine-Aurore-Lucile
+    - Dupin, Amandine-Aurore-Lucile
+    - Dupin, Armandine Aurore Lucille
+    birthdate: 1804
+    deathdate: 1876
+    gutenberg_agent_id: '851'
+    url: http://www.gutenberg.org/2009/agents/851
+    wikipedia:
+    - http://en.wikipedia.org/wiki/George_Sand
+    - https://fr.wikipedia.org/wiki/George_Sand
+  illustrator:
+    agent_name: Johannot, Tony
+    birthdate: 1803
+    deathdate: 1852
+    gutenberg_agent_id: '31992'
+    url: http://www.gutenberg.org/2009/agents/31992
+  translator:
+    agent_name: Leroux, Pierre
+    gutenberg_agent_id: '51914'
+    url: http://www.gutenberg.org/2009/agents/51914
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Von Goethe, Johann Wolfgang
+    - Goethe, J. W. (Johann Wolfgang)
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: ''
+gutenberg_issued: '2020-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62368'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Werther
+url: http://www.gutenberg.org/ebooks/62368
